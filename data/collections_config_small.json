@@ -1,0 +1,8 @@
+{
+	"collections": [{
+		"Id": "602",
+		"name": "Germanwings",
+		"type": "binary",
+		"FP": ["african", "lives"]
+	}]
+}

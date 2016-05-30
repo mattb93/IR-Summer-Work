@@ -1,0 +1,33 @@
+{
+	"collections": [{
+		"Id": "602",
+		"name": "Germanwings",
+		"type": "binary",
+		"FP": ["african", "lives"]
+	}, {
+		"Id": "541",
+		"name": "NAACPBombing",
+		"type": "binary",
+		"FP": ["bombing", "colorado"]
+	}, {
+		"Id": "668",
+		"name": "houstonflood",
+		"type": "binary",
+		"FP": ["cambodia", "insurance"]
+	}, {
+		"Id": "700",
+		"name": "wdbj7 shooting ",
+		"type": "binary",
+		"FP": ["unbelievable", "roanoke", "gun"]
+	}, {
+		"Id": "686",
+		"name": "Obamacare",
+		"type": "binary",
+		"FP": ["insurance", "health"]
+	}, {
+		"Id": "694",
+		"name": "4thofJuly",
+		"type": "binary",
+		"FP": ["independenceday", "happy"]
+	}]
+}
